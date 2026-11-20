@@ -1,0 +1,5 @@
+dataset/
+runs/
+*.onnx
+__pycache__/
+*.mp4
